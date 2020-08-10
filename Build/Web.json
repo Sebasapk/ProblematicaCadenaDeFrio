@@ -1,7 +1,7 @@
 {
 "companyName": "Suomaya",
-"productName": "Problematica Cadena De Frio",
-"productVersion": "1",
+"productName": "Problemática Cadena De Frío",
+"productVersion": "1.0",
 "dataUrl": "Web.data.unityweb",
 "wasmCodeUrl": "Web.wasm.code.unityweb",
 "wasmFrameworkUrl": "Web.wasm.framework.unityweb",
